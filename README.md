@@ -17,7 +17,7 @@
 Open a terminal and navigate to the desired location where you want to clone or download the script, then run the following commands:
 
 ```sh
-git clone <repository_url>
-cd <repository_directory>
+git clone https://github.com/dg-t/category-path-challenge.git
+cd category-path-challenge
 node script.js
 ```
